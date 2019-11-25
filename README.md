@@ -1,6 +1,6 @@
 # DiamondView-Dataset
 
-This is a dataset we at the Neuro-Machine-Interaction Lab at USF created. This dataset is going to be a EEG dataset set to record Emotion and Personality as it relates to EEG signals. The EEG system we are using is going to be the G-Tec Nautilus (32 Channel). We are going to record participants while they watch a series of emotion envoking videos. 
+This is a dataset we at the Neuro-Machine-Interaction Lab [1] at USF created. This dataset is going to be a EEG dataset set to record Emotion and Personality as it relates to EEG signals. The EEG system we are using is going to be the G-Tec Nautilus (32 Channel). We are going to record participants while they watch a series of emotion envoking videos. 
 
 Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
 
@@ -8,7 +8,7 @@ Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T
 The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
 
 ![Image of APP](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/10-20-System.png)
-
+Figure 1: 10-20 EEG Setup [2]
 
 
 # Videos 
@@ -25,4 +25,5 @@ The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling
 
 
 # References
-https://www.neurosymbiosis.com 
+[1] https://www.neurosymbiosis.com 
+[2] https://en.wikipedia.org/wiki/10–20_system_(EEG)
