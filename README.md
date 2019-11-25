@@ -4,7 +4,10 @@ This is a dataset we at the Neuro-Machine-Interaction Lab at USF created. This d
 
 Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
 
-Videos: 
+# Data
+The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
+
+# Videos 
 1.	Volvo Moments – https://youtu.be/pjQt2IEZIXg   (video unavailable)
 2.	Gift – https://youtu.be/JMs7dkdO4YY 
 3.	Shoulders of Giants – https://youtu.be/Ffp78Q3yHU0 
