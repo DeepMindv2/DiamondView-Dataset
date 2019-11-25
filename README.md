@@ -7,6 +7,10 @@ Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T
 # Data
 The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
 
+![Image of APP](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/10-20-System.png)
+
+
+
 # Videos 
 1.	Volvo Moments – https://youtu.be/pjQt2IEZIXg   (video unavailable)
 2.	Gift – https://youtu.be/JMs7dkdO4YY 
