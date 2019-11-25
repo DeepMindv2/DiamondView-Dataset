@@ -20,3 +20,5 @@ The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling
 10.	Apple: Christmas – https://www.youtube.com/watch?v=v76f6KPSJ2w 
 
 
+# References
+https://www.neurosymbiosis.com 
