@@ -1,6 +1,6 @@
 # DiamondView-Dataset
 
-This is a dataset we at the Neuro-Machine-Interaction Lab [1] at USF created. This dataset is going to be a EEG dataset set to record Emotion and Personality as it relates to EEG signals. The EEG system we are using is going to be the G-Tec Nautilus (32 Channel). We are going to record participants while they watch a series of emotion envoking videos. 
+This is a dataset we at the Neuro-Machine-Interaction Lab [1] at USF created. This dataset is going to be a EEG dataset set to record Emotion and Personality as it relates to EEG signals. The EEG system we are using is going to be the G-Tec Nautilus (32 Channel). We are going to record various data from participants while they watch a series of emotion envoking videos provided by DiamondView. Participants also take a series of surveys before and after watching the videos. 
 
 Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
 
