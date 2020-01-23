@@ -37,6 +37,12 @@ Python script curates data acquisition into correct data folder
 python3 run.py
 ```
 
+# Openvibe (EEG Software)
+We use Openvibe as our real-time acquisition software that converts the raw EEG data into multiple formats and saves locally. Make sure you already downloaded Openvibe before running script. 
+```
+Dataset_openvibe.mxs
+```
+
 
 # Videos 
 1.	Volvo Moments – https://youtu.be/pjQt2IEZIXg   (video unavailable)
