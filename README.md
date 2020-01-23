@@ -14,6 +14,7 @@ The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF.
 - ________ = Thermal Camera Data
 
 
+# Devices
 EEG Device
 - G-Tec Nautilus: 32 Channel 
 - Sampling Rate: 250 Hz
@@ -28,9 +29,6 @@ Frontal Face Camera
 
 Finger Heart Rate Sensor
 - Manufacturer: 
-
-
-The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
 
 ![Image of APP](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/10-20-System.png)
 Figure 1: 10-20 EEG Setup [2]
