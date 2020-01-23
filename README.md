@@ -5,7 +5,32 @@ This is a dataset we at the Neuro-Machine-Interaction Lab [1] at USF created. Th
 Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
 
 # Data
-The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
+The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. 
+- CSV File = EEG Data
+- GDF File = EEG Data
+- MP4 File = Frontal Face Camera Data
+- EDF File = EEG Data
+- ________ = Heart Rate Data
+- ________ = Thermal Camera Data
+
+
+EEG Device
+- G-Tec Nautilus: 32 Channel 
+- Sampling Rate: 250 Hz
+- Channels: 10-20 System
+
+Thermal Camera 
+- Manufacturer: 
+
+Frontal Face Camera
+- Manufacturer: Razer Kyo 
+- FPS: 1080
+
+Finger Heart Rate Sensor
+- Manufacturer: 
+
+
+The sampling rate is 250 Hz. The devices used to gather participants data will include EEG cap, Thermal Camera, Frontal Face Camera, and Finger Heart Rate Sensor. The EEG Device, G-tec Nautilus, has 32 channels set in the 10-20 System. The dataset consists of 100 participants. 
 
 ![Image of APP](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/10-20-System.png)
 Figure 1: 10-20 EEG Setup [2]
