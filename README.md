@@ -33,7 +33,7 @@ Finger Heart Rate Sensor
 
 # Instructions
 Python script curates data acquisition into correct data folder
-`<addr>` python3 run.py
+`<python3 run.py>` 
 
 
 
