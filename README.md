@@ -24,6 +24,20 @@ Figure 1: 10-20 EEG Setup [2]
 10.	Apple: Christmas – https://www.youtube.com/watch?v=v76f6KPSJ2w 
 
 
+# To Do
+- [ ] Find and Order Thermal Camera
+- [ ] Find and Order Finger Heart Rate Sensor 
+- [ ] Configure the Data acquisition systems for the heart rate sensors 
+- [ ] Configure the Data acquisition systems for the Thermal Camera 
+- [ ] Verify Python Scripts
+- [ ] Verify Qualtrics survey 
+- [ ] Complete another test run with all pHD students watching 
+- [ ] Work on Visualization for Diamond View 
+- [ ] Test fixed G-tec to see if EDF File writer works
+- [ ] Get downloaded Diamond View Videos 
+
+
 # References
 [1] https://www.neurosymbiosis.com 
+
 [2] https://en.wikipedia.org/wiki/10–20_system_(EEG)
