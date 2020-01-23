@@ -37,6 +37,13 @@ Python script curates data acquisition into correct data folder
 python3 run.py
 ```
 
+# Qualtrics Survey 
+Our participants complete this survey before the test begin. This survey is designed to help establish the Personality type of users. Consists of over 217 Questions, estimated time of completion around 20 minutes. 
+- PANAS Section (23 Questions): Current Emotional State
+- IPIP Neo (121 Questions): Determines Personality Type
+- MANAS Survey (16 Questions): Determines Valence and Arousal 
+
+
 # Openvibe (EEG Software)
 We use Openvibe as our real-time acquisition software that converts the raw EEG data into multiple formats and saves locally. Make sure you already downloaded Openvibe before running script. 
 ```
