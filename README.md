@@ -13,6 +13,7 @@ The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF.
 - ________ = Heart Rate Data
 - ________ = Thermal Camera Data
 
+![Image of Participant Repository](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/Screen%20Shot%202020-01-23%20at%209.17.43%20AM.png) ![Images of Participant Folder](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/Screen%20Shot%202020-01-23%20at%209.17.53%20AM.png)
 
 # Devices
 EEG Device
