@@ -2,8 +2,6 @@
 
 This is a dataset we at the Neuro-Machine-Interaction Lab [1] at USF created. This dataset is going to be a EEG dataset set to record Emotion and Personality as it relates to EEG signals. The EEG system we are using is going to be the G-Tec Nautilus (32 Channel). We are going to record various data from participants while they watch a series of emotion envoking videos provided by DiamondView. Participants also take a series of surveys before and after watching the videos. 
 
-Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
-
 # Data
 The data is going to be saved in 4 formats: CSV, GDF, MP4, and EDF. 
 - CSV File = EEG Data
@@ -43,6 +41,9 @@ Our participants complete this survey before the test begin. This survey is desi
 - IPIP Neo (121 Questions): Determines Personality Type
 - MANAS Survey (16 Questions): Determines Valence and Arousal 
 
+Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
+
+![Qualtrics Flow]()
 
 # Openvibe (EEG Software)
 We use Openvibe as our real-time acquisition software that converts the raw EEG data into multiple formats and saves locally. Make sure you already downloaded Openvibe before running script. 
