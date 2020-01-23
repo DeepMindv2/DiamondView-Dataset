@@ -43,7 +43,7 @@ Our participants complete this survey before the test begin. This survey is desi
 
 Qualtrics Survey: https://usf.az1.qualtrics.com/jfe/form/SV_efzyfh3faHRIn7T 
 
-![Qualtrics Flow]()
+![Qualtrics Flow](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/Screen%20Shot%202020-01-23%20at%209.39.48%20AM.png)
 
 # Openvibe (EEG Software)
 We use Openvibe as our real-time acquisition software that converts the raw EEG data into multiple formats and saves locally. Make sure you already downloaded Openvibe before running script. 
