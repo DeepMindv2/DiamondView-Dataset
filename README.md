@@ -31,8 +31,10 @@ Frontal Face Camera
 Finger Heart Rate Sensor
 - Manufacturer: 
 
-![Image of APP](https://github.com/DeepMindv2/DiamondView-Dataset/blob/master/10-20-System.png)
-Figure 1: 10-20 EEG Setup [2]
+# Instructions
+Python script curates data acquisition into correct data folder
+`<addr>` python3 run.py
+
 
 
 # Videos 
@@ -63,5 +65,3 @@ Figure 1: 10-20 EEG Setup [2]
 
 # References
 [1] https://www.neurosymbiosis.com 
-
-[2] https://en.wikipedia.org/wiki/10–20_system_(EEG)
